@@ -1,0 +1,13 @@
+# Ignorar la carpeta "node_modules"
+node_modules/
+
+# Ignorar el archivo de configuracion local
+config/*
+
+# Ignorar los archivos de registro
+*.log
+
+# Ignorar archivos de contraseñas
+*.pem
+*.key
+*.pub
