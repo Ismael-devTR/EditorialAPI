@@ -1,6 +1,8 @@
 # Ignorar la carpeta "node_modules"
 node_modules/
 
+.vscode/*
+
 # Ignorar el archivo de configuracion local
 config/*
 
