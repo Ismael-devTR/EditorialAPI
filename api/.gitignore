@@ -4,7 +4,7 @@ node_modules/
 .vscode/*
 
 # Ignorar el archivo de configuracion local
-config/*
+/v1/config/*
 
 # Ignorar los archivos de registro
 *.log
